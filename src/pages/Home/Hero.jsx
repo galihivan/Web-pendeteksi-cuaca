@@ -132,9 +132,7 @@ export default function Hero() {
           <p className="text-lg md:text-xl mb-8">
             Weather & Bloom adalah situs web pendeteksi cuaca yang mudah digunakan untuk memberikan rekomendasi tanaman berdasarkan informasi cuaca terkini di kota Anda. Cukup masukkan nama kota, dan kami akan memberikan data cuaca yang akurat dan terkini agar tanaman Anda dapat tetap tumbuh dengan baik walaupun saat cuaca sulit diprediksi.
           </p>
-          <button className="bg-secondary-green hover:bg-secondary-green-dark text-white font-semibold py-3 px-6 rounded-lg transition duration-300">
-            Pelajari Lebih Lanjut
-          </button>
+         
         </div>
       </section>
 
