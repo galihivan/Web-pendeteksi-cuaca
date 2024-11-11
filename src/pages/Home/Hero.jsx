@@ -177,7 +177,7 @@ export default function Hero() {
             />
             <button
               onClick={getWeatherManual}
-              className="bg-blue-500 text-white p-3 rounded-lg w-full hover:bg-blue-600 transition duration-300"
+              className="bg-green-500 text-white p-3 rounded-lg w-full hover:bg-green-600 transition duration-300"
             >
               Dapatkan Cuaca
             </button>
@@ -188,7 +188,7 @@ export default function Hero() {
           <button
             id="auto-detect"
             onClick={getWeatherAuto}
-            className="bg-blue-500 text-white p-3 rounded-lg w-full hover:bg-blue-600 transition duration-300"
+            className="bg-green-500 text-white p-3 rounded-lg w-full hover:bg-green-600 transition duration-300"
           >
             Deteksi Cuaca Otomatis
           </button>
