@@ -37,6 +37,8 @@ export default function Contacts() {
           <ContactForm />
         </div>
       </div>
+      
+     
     </section>
   );
 }
